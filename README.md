@@ -1,6 +1,6 @@
 
 BI PROJECTS PLAYLIST
 https://www.youtube.com/playlist?list=PLT0a9aNZsHG1u30R7yMMKbSISFeY9T9r1
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![BI Marketing Analyse](https://img.youtube.com/vi/_ELANdkI6Yc/0.jpg)](https://www.youtube.com/watch?v=_ELANdkI6Yc)
 
 https://youtu.be/_ELANdkI6Yc
